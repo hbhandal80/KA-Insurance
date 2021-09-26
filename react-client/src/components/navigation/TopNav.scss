@@ -1,0 +1,22 @@
+.topnav {
+  &__toolbar {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+
+  &__logo {
+    cursor: pointer;
+  }
+
+  &__cancel-button {
+    background-color: red;
+    color: white;
+  }
+
+  &__login {
+    &--error  p {
+      color: #f50057;
+    }
+  }
+}
