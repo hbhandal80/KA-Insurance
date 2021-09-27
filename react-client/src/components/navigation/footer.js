@@ -78,7 +78,7 @@ function Footer() {
           </div>
           <div className={classes.fixSpans}>
             <PhoneIcon fontSize="small"></PhoneIcon>
-            <span> +1 111 111 1111</span>
+            <span> +1 604 518 5276</span>
           </div>
         </Grid>
         <Grid item xs={4} className={classes.column}>
