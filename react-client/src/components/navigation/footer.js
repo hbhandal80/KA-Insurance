@@ -74,6 +74,10 @@ function Footer() {
           </div>
           <div className={classes.fixSpans}>
             <EmailIcon fontSize="small"></EmailIcon>
+            <span>Karn Bhandal</span>
+          </div>
+          <div className={classes.fixSpans}>
+            <EmailIcon fontSize="small"></EmailIcon>
             <span> Contact@KAInsurance.ca</span>
           </div>
           <div className={classes.fixSpans}>
