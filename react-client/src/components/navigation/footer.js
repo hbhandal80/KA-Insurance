@@ -93,9 +93,7 @@ function Footer() {
         </Grid>
         <Grid item xs={3} className={classes.column}>
           <div className={classes.h}>Support</div>
-          <div>Our Covid-19 response</div>
           <div>FAQ's</div>
-          <div>Cancellation Policy</div>
         </Grid>
         <Grid item xs={1}></Grid>
         <Grid item xs={3}>
