@@ -3,7 +3,7 @@ import React from 'react'
 import Box from '@material-ui/core/Box'
 import { makeStyles } from '@material-ui/core/styles'
 
-import blue from "../pics/blue.jpeg";
+import grey from "../pics/grey.jpeg";
 
 const useStyles = makeStyles((theme) => ({
   background: {
@@ -13,7 +13,7 @@ const useStyles = makeStyles((theme) => ({
     backgroundPosition: "center center",
     backgroundSize: "cover",
     height: '600px',
-    paddingTop: '50px',
+    paddingTop: '25px',
   },
   overlay: {
     position: 'absolute',
