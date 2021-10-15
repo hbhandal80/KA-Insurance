@@ -10,7 +10,7 @@ const useStyles = makeStyles((theme) => ({
     backgroundImage: `url(${blue})`,
     position: 'relative',
     backgroundRepeat: "no-repeat",
-    backgroundPosition: "center center",
+    backgroundPosition: "center",
     backgroundSize: "cover",
     height: '600px',
     paddingTop: '25px',
